@@ -1,0 +1,4 @@
+pygame>=2.0.0
+
+To run this use:
+pip install -r requirements.txt
